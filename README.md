@@ -10,8 +10,6 @@ Install Powershell 7+ (If running script on Windows Powershell)
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
 ```
 ./fanalab-pws-covert.py/ <path to src folder containing PWS files> <path to where the src folder is copied and scaled>
 ```
