@@ -5,7 +5,8 @@ A script that is used by me to copy and convert Maurice' FanaLab Profiles from D
 ## Getting Started
 
 Install Python 3+
-Install Powershell 7+
+
+Install Powershell 7+ (If running script on Windows Powershell)
 
 ### Executing program
 
